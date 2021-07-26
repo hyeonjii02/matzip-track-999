@@ -18,7 +18,7 @@
 
 -----------------
 #데이터 구조
-https://user-images.githubusercontent.com/70155543/126991851-9506158e-ce20-4098-919c-1da3b1dc329f.PNG
+![스프링_데이터구조](https://user-images.githubusercontent.com/70155543/126991851-9506158e-ce20-4098-919c-1da3b1dc329f.PNG)
 
 https://user-images.githubusercontent.com/70155543/126991921-e8247aa6-ad22-462d-9ca7-9e37aca8a9ac.PNG
 -----------------
