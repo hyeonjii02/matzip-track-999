@@ -23,18 +23,18 @@
 ![스프링_사용법8](https://user-images.githubusercontent.com/70155543/126991921-e8247aa6-ad22-462d-9ca7-9e37aca8a9ac.PNG)
 -----------------
 # 사용법
-1. 메인화면
+## 1. 메인화면
 ![스프링_사용법1](https://user-images.githubusercontent.com/70155543/126991873-560b1424-7d25-4ca0-80fd-b9b38cc68722.PNG)
-2..로그인
+## 2..로그인
 ![스프링_사용법2](https://user-images.githubusercontent.com/70155543/126991892-692a888c-2b3e-4cc7-91c7-6062fcf209a2.PNG)
 - 카카오 로그인 API를 사용하였습니다.
-3.블로그
+## 3.블로그
 ![스프링_사용법3](https://user-images.githubusercontent.com/70155543/126991897-ed4bb5b6-1132-4f4b-a336-3a91abe665fb.PNG)
 ![스프링_사용법4](https://user-images.githubusercontent.com/70155543/126991937-e601611c-015f-4050-a0aa-1057f4293d29.PNG)
 - 사진을 5개까지 첨부할 수 있습니다.
 - 역을 선택해 글을 작성하여, 사용자가 역별로 맛집을 검색해 볼 수가 있습니다.
 
-4.맛집 지도
+## 4.맛집 지도
 ![스프링_사용법4](https://user-images.githubusercontent.com/70155543/126991949-2c6798bf-c067-4c8b-a4cc-8f1f3897684e.PNG)
 - 역을 누르면 지도가 해당 역 맛집 지도로 변경됩니다.
 
@@ -44,7 +44,7 @@
 - 추천순으로 블로그 글을 정렬하였습니다.
 - 리스트에서 맛집을 선택하면 해당 맛집 페이지로 이동하게 됩니다.
 
-5. 맛집 상세 정보
+## 5. 맛집 상세 정보
 ![스프링_사용법6](https://user-images.githubusercontent.com/70155543/126991908-b59a32ce-7d9b-43e5-9643-ef213317e6e9.PNG)
 - 리뷰 별점 총점을 계산하여 보여줍니다.
 - 사진을 누르면 다음 블로그로 이동하게 됩니다.
